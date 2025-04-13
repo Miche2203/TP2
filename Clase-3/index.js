@@ -126,7 +126,7 @@ import fs from "fs"
 // ----------------------------------------------------------------------------
 
 // ASYNC (Siempre una Fx, no puede ser una variable) / AWAIT
-// Es una promesa pero se escribe de otra manera
+// Es una promesa pero se escribe de otra manera. No necesita then/catch
 // Consulta BD
 
 console.log("// ------- FS c/ Async/Await -------- //");
